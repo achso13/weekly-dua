@@ -3,7 +3,6 @@ import Navbar from "../Navbar";
 import TaskImages from "../TaskImages";
 import NotFoundPage from "../../pages/NotFoundPage";
 
-import CONST from "../../utils/contants";
 import { useParams } from "react-router-dom";
 import { useSelector } from "react-redux";
 
